@@ -9,3 +9,4 @@ shell topics
 3.Functions
 4.Conditions
 5.Loops
+6.SED Editor
