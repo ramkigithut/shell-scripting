@@ -10,7 +10,7 @@ echo employee2 - $employee
 echo batch2 - $batch
 date=$(date +%F)
 sum=$((2+3))
-location =$(pwd)
+location=$(pwd)
 echo today date is $date
 echo sum is $sum
 place is $location
