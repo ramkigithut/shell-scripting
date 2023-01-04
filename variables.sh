@@ -8,6 +8,6 @@ echo batch1 - $batch
 
 echo employee2 - $employee
 echo batch2 - $batch
-date = $(date +%F)
-
+date=$(date +%F)
+echo today date is $date
 #end of practice
