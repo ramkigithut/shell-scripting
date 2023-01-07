@@ -4,3 +4,5 @@ echo -e "\e[32mHelloworld\e[0m"
 echo -e "\e[33mHelloworld\e[0m"
 echo -e "\e[34mHelloworld\e[0m"
 echo -e "\e[35mHelloworld\e[0m"
+echo ramakrishna
+echo success
