@@ -14,4 +14,4 @@ echo present date is $Date
 
 add=$((2+3))
 echo "sum of 2 & 3"
-echo sum is $add
+echo is $add
