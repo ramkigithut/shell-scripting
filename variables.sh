@@ -5,4 +5,9 @@ aspirant=ramki
 topic=devops
 
 echo Aspirant is $aspirant
-echo Topic is ${topic}
+echo Topic is ${topic
+
+#date command format synatx is date +%F
+
+Date=$(date +%F)
+echo present date is $Date
