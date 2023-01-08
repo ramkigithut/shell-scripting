@@ -5,4 +5,4 @@ aspirant=ramki
 topic=devops
 
 echo Aspirant is $aspirant
-echo Topic is $topic
+echo Topic is ${topic}
