@@ -19,3 +19,4 @@ echo "sum of 2 & 3" is
 #Arrays_index_positioning
 
 echo c - $c
+#export c
