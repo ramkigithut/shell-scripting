@@ -17,3 +17,5 @@ echo "sum of 2 & 3" is
 
 #Readwrite
 #Arrays_index_positioning
+
+echo c - $c
