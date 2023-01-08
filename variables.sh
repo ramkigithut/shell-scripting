@@ -13,4 +13,7 @@ Date=$(date +%F)
 echo present date is $Date
 
 add=$((2+3))
-echo "sum of 2 & 3" is $add
+echo "sum of 2 & 3" is
+
+#Readwrite
+#Arrays_index_positioning
