@@ -4,7 +4,7 @@
 
 #Function Declaration
 example() {
-  echo sample statement
+  echo "sample statement"
 }
 
 ##Calling a function is simple , just write name of the function
