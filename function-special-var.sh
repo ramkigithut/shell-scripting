@@ -9,3 +9,4 @@ samplefunct() {
 }
 
 samplefunct 34 45
+samplefunct "34 45"
