@@ -8,4 +8,4 @@ samplefunct() {
   echo "# - $#"
 }
 
-samplefunct
+samplefunct 34 45
