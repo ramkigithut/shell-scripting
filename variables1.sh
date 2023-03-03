@@ -8,3 +8,4 @@ echo $abc $ade
 
 (unset abc 2> /dev/null) || echo "Read only"
 (unset ade 2> /dev/null) || echo "Read only"
+
